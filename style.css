@@ -1,0 +1,36 @@
+/* Style for the Code Editor */
+.code-editor {
+  width: 40%;
+  margin: 200px;
+  border: 1px solid #040404;
+  padding: 20px;
+  margin-left: 500px;
+  height: 60%;
+  background-color: bisque;
+}
+
+.code-toolbar {
+  text-align: right;
+  background-color: cadetblue;
+}
+
+button {
+  padding: 5px 10px;
+  margin: 5px;
+  cursor: pointer;
+}
+
+.editor-content {
+  border: 1px solid #141313;
+  padding: 100px;
+}
+
+code-text {
+  width: 60%;
+  height: 300px;
+  resize: none;
+  border: none;
+}
+
+
+
